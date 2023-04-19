@@ -30,7 +30,7 @@ You will need to install <a href="https://www.docker.com/">Docker</a> on your ma
 <br/>
 </div>
 
-### Run containers on Docker compose
+### Run containers on docker-compose.yaml
 
 ```shell
 # Will start MongoDB into a Docker Container
